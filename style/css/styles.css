@@ -1,0 +1,18 @@
+
+
+
+/* SECTION ABOUT */
+#about p{
+    max-width: 75%;
+    margin: 0 20%;
+}
+
+
+
+
+
+
+/* FOOTER */
+.no-underline{
+    text-decoration: none;
+}
